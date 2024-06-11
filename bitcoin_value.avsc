@@ -1,0 +1,36 @@
+{
+    "namespace":"com.al.bitcoin",
+    "type":"record",
+    "name":"bitcoin_price",
+    "fields":[
+        {
+            "name":"Date",
+            "type":"string"
+        },
+        {
+            "name":"Open",
+            "type":"float"
+        },
+        {
+            "name":"High",
+            "type":"float"
+        },
+        {
+            "name":"Low",
+            "type":"float"
+        },
+        {
+            "name":"Close",
+            "type":"float"
+        },
+        {
+            "name":"Volume",
+            "type":"string"
+        },
+        {
+            "name":"MarketCap",
+            "type":"string"
+        }
+    ]
+
+}

@@ -1,0 +1,12 @@
+{
+    "namespace":"com.al.bitcoin",
+    "type":"record",
+    "name":"bitcoin_price",
+    "fields":[
+        {
+            "name":"Date",
+            "type":"string"
+        }
+    ]
+
+}
